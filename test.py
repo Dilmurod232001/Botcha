@@ -4,7 +4,7 @@
 
 # import telebot
 
-# bot = telebot.TeleBot("5902270251:AAE35OE2hi-uwdlG5p-ydXjSo_qrZgD0UHI")
+# bot = telebot.TeleBot("6799142842:AAGI9W_63USw4dT33BclpPKjso2Rgrlgbyg")
 
 # @bot.message_handler(text='salom')
 # def start(message):
